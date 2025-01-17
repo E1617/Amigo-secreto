@@ -1,10 +1,13 @@
 # Amigo-secreto
 Challenge Alura
-<!-- ![alt text](image.png) -->
+![Logo](image.png)
 
 ## Descripción
 
-Esta aplicación permite ingresar nombres en una lista, visualizar la lista de nombres y realizar un sorteo aleatorio para seleccionar un nombre al azar de la lista.
+Esta aplicación permite ingresar nombres en una lista visualizar la lista de nombres.
+![Listas](image-1.png)
+Y realizar un sorteo aleatorio para seleccionar un nombre al azar de la lista.
+![Sorteo](image-2.png)
 
 ## Funcionalidades
 
