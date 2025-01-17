@@ -1,0 +1,3 @@
+function agregarAmigo(){
+    let NombresAmigos = [];
+}
